@@ -1,6 +1,25 @@
 # 💫 About Me:
-I am Sagar Santosh More, currently pursuing Bachelor of Engineering in computer Engineering from the Dr. D. Y. Patil collage of Engineering and innovtion, Talegaon. I had previously completed my diploma in Computer Engineering from Curow Wadia Institue of Technology, pune. HSC from RJSPM Dnyanbhakti jr. collage, Alandi and SSC from Shri Wagheshwar vidyalay,charholi bk.<br>        After 12th I had selected Computer Engineering as a careeroption, As i had interest in studying various computer fields.<br>       As for the technical qualification i have done intership in core java from N Infinity Engineering Academy Pune, Workshop program in web development and hosting from Elite softwares pvt ltd.<br>       Recently i have completed Sign Language Recognition project as a final year project. Also i have been working on topcsegineering.wordpress.com on which i have use posts DSA related notes.<br>        For Technical Knowledge i know HTML,CSS,JavaScript,PHP,MySQL,Python. <br>my hobbies are solving sudoku a a past time and reading books on the daily basis.
+Hello and good day,
 
+I'm Sagar Santosh More, a recent graduate with a Bachelor's degree in Computer Engineering from Dr. D. Y. Patil College of Engineering and Innovation, achieving an impressive CGPA of 8.66. Previously i have completed diploma from Cusrow Wadia Institute of Technology, Pune, where I earned a commendable score of 83.25%. 
+<br><br>
+
+My journey through the realm of technology has been enriched by diverse experiences. An internship in Core Java at N INFINITY ENGINEERING ACADEMY, Pune, honed my skills. Further, training courses in Data Science and Core Java with INTERSHALA expanded my expertise. Presently, I'm actively engrossed in a comprehensive Java Full-Stack Development program at Qspider Deccan.
+<br><br>
+A testament to my technical prowess is the successful completion of my Bachelor's final year project, "Sign Language Recognition." Developed using Python, integrating Mediapipe and OpenCV libraries, and the Flask web framework, this project is dedicated to assisting individuals who are deaf or hard of hearing. Additionally, I have engineered an Employee Payroll Management System using Java Swing and JDBC.
+<br><br>
+My technical proficiency extends across languages like C, HTML/CSS, JavaScript, SQL, Python, and Java, with a pronounced comfort level in Java Programming.
+<br><br>
+Beyond technology, I find solace in solving Sudoku puzzles and immerse myself in books daily.
+<br><br>
+In the academic arena, I've contributed by authoring a review paper titled "Review on Technical Approaches of Sign Language Recognition," published in IRJMETS.
+<br><br>
+As a budding professional in Computer Engineering, I'm poised to align myself with an organization that offers the optimal platform to leverage my skills. My eagerness to contribute to organizational growth and my personal development drives my dedicated efforts and pursuit of continuous learning.
+<br><br>
+Thank you for delving into my profile. Feel free to connect!
+<br><br>
+Best regards,
+Sagar Santosh More
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_rich_zone/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar1705/) 
