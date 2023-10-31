@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 <h2>About Me:</h2>
 
-<h2>About Me:</h2>
+
     <ul>
         <li>Sagar More, recent Computer Engineering graduate with a Bachelor's degree from Dr. D. Y. Patil College of Engineering and Innovation, CGPA 8.66.</li>
         <li>Diploma from Cusrow Wadia Institute of Technology, Pune, with a score of 83.25%.</li>
