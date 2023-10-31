@@ -1,4 +1,4 @@
-#💫**About Me:**
+#About Me:
 
 <ul>
         <li>Sagar More, recent Computer Engineering graduate with a Bachelor's degree from Dr. D. Y. Patil College of Engineering and Innovation, CGPA 8.66.</li>
