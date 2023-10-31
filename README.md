@@ -1,21 +1,20 @@
 # 💫 About Me:
 
-Sagar Santosh More, recent Computer Engineering graduate with a Bachelor's degree from Dr. D. Y. Patil College of Engineering and Innovation, CGPA 8.66.
-<br>Diploma from Cusrow Wadia Institute of Technology, Pune, with a score of 83.25%.
-<br>Interned in Core Java at N INFINITY ENGINEERING ACADEMY, Pune.
-<br>Completed Data Science and Core Java courses with INTERSHALA.
-<br>Currently enrolled in a Java Full-Stack Development program at Qspider Deccan.
-<br>Developed "Sign Language Recognition" project using Python, Mediapipe, OpenCV, and Flask.
-<br>Created an Employee Payroll Management System using Java Swing and JDBC.
-<br>Proficient in C, HTML/CSS, JavaScript, SQL, Python, and Java.
-<br>Contributed to the open-source NSCC-BPIT-Website project on GitHub, which was merged into the live website's main code.
-<br>Enjoys solving Sudoku puzzles and reading books.
-<br>Authored a review paper titled "Review on Technical Approaches of Sign Language Recognition," published in IRJMETS.
-<br>Eager to contribute to an organization's growth and personal development through continuous learning.
-<br>Thank you for exploring my profile. Feel free to connect!
-<br>
-<br>Best regards,
-<br>Sagar Santosh More 💫
+<h2>About Me:</h2>
+    <ul>
+        <li>Sagar More, recent Computer Engineering graduate with a Bachelor's degree from Dr. D. Y. Patil College of Engineering and Innovation, CGPA 8.66.</li>
+        <li>Diploma from Cusrow Wadia Institute of Technology, Pune, with a score of 83.25%.</li>
+        <li>Interned in Core Java at N INFINITY ENGINEERING ACADEMY, Pune.</li>
+        <li>Completed Data Science and Core Java courses with INTERSHALA.</li>
+        <li>Currently enrolled in a Java Full-Stack Development program at Qspider Deccan.</li>
+        <li>Developed "Sign Language Recognition" project using Python, Mediapipe, OpenCV, and Flask.</li>
+        <li>Created an Employee Payroll Management System using Java Swing and JDBC.</li>
+        <li>Proficient in C, HTML/CSS, JavaScript, SQL, Python, and Java.</li>
+        <li>Contributed to the open-source NSCC-BPIT-Website project on GitHub, which was merged into the live website's main code.</li>
+        <li>Enjoys solving Sudoku puzzles and reading books.</li>
+        <li>Authored a review paper titled "Review on Technical Approaches of Sign Language Recognition," published in IRJMETS.</li>
+        <li>Eager to contribute to an organization's growth and personal development through continuous learning.</li>
+    </ul>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar1705/) 
