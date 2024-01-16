@@ -11,7 +11,6 @@
         <li>Winner of collab code carnival festival counducted by OSEN group.</li>
         <li>Contributed to the open-source NSCC-BPIT-Website project on GitHub, which was merged into the live website's main code.</li>
         <li>Enjoys solving Sudoku puzzles and reading books.</li>
-        <li>Authored a review paper titled "Review on Technical Approaches of Sign Language Recognition," published in IRJMETS.</li>
         <li>Eager to contribute to an organization's growth and personal development through continuous learning.</li>
     </ul>
 
