@@ -7,7 +7,7 @@
         <li>Currently enrolled in a Java Full-Stack Development program at Qspider Deccan.</li>
         <li>Developed "Sign Language Recognition" project using Python, Mediapipe, OpenCV, and Flask.</li>
         <li>Created an Employee Payroll Management System using Java Swing and JDBC.</li>
-        <li>Proficient in C, HTML/CSS, JavaScript, SQL, Python, and Java.</li>
+        <li>Have Good Knowledge about Java.</li>
         <li>Winner of collab code carnival festival counducted by OSEN group.</li>
         <li>Contributed to the open-source NSCC-BPIT-Website project on GitHub, which was merged into the live website's main code.</li>
         <li>Enjoys solving Sudoku puzzles and reading books.</li>
