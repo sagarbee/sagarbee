@@ -49,19 +49,6 @@ observable, and hard to break.
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
-
-### 📌 Featured Project
-
-**[PayGuard](https://github.com/sagarbee/payguard)** — a pluggable payment security & fraud-detection
-toolkit for Spring Boot, generalizing real-world production patterns into a reusable library:
-
-- Rate-limited request gateway (per-merchant, per-endpoint token-bucket limiting)
-- Rule-based fraud engine (velocity checks, amount thresholds, geo/IP mismatch detection)
-- HMAC + AES-256/RSA payload signing & verification library
-- YAML-first dynamic configuration with cache-backed hot-reload
-
----
 
 ### 📊 GitHub Stats
 
